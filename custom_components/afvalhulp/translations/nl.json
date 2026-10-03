@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Afvalhulp instellen",
+        "description": "Vul het adres in dat je wilt gebruiken.",
+        "data": {
+          "postcode": "Postcode",
+          "house_number": "Huisnummer",
+          "addition": "Toevoeging"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Kan voor dit adres geen kalender ophalen.",
+      "invalid_postcode": "Vul een geldige postcode in, bijvoorbeeld 1234AB."
+    },
+    "abort": {
+      "already_configured": "Dit adres is al geconfigureerd."
+    }
+  }
+}
