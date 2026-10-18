@@ -25,7 +25,7 @@ async def async_setup_entry(
 
 class AfvalhulpCalendar(CoordinatorEntity[AfvalhulpCoordinator], CalendarEntity):
     _attr_has_entity_name = True
-    _attr_name = "Calendar"
+    _attr_name = "Afvalhulp"
     _attr_icon = "mdi:calendar-trash"
     def __init__(self, coordinator: AfvalhulpCoordinator, entry: AfvalhulpConfigEntry) -> None:
         super().__init__(coordinator)
