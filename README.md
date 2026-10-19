@@ -34,7 +34,7 @@ Home Assistant's built-in `DataUpdateCoordinator` refreshes the `.ics` feed ever
 Copy `custom_components/afvalhulp` into `/config/custom_components/` and restart Home Assistant.
 
 ## Contributing
-Contributions are welcome. If you find any issues or have improvements, you can create an [issue](https://codeberg.org/Zegers/hass-afvalhulp/issues) or [pull request](https://codeberg.org/Zegers/hass-afvalhulp/pulls).
+Contributions are welcome. If you find any issues or have improvements, you can create an [issue](https://codeberg.org/Zegers/hass-afvalhulp/issues) or [pull request](https://codeberg.org/Zegers/hass-afvalhulp/pulls) on Codeberg or on [GitHub](https://github.com/Joery/hass-afvalhulp).
 
 ## License
 This repo is licensed under the [GNU General Public License v3.0](LICENSE).
