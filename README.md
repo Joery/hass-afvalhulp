@@ -26,7 +26,7 @@ Home Assistant's built-in `DataUpdateCoordinator` refreshes the `.ics` feed ever
 ## Installation
 
 ### HACS
-1. Add `https://github.com/Joery/hass-afvalhulp` to HACS as a custom **Integration** repository.
+1. Search for **Afvalhulp** in HACS or use the button above.
 2. Install **Afvalhulp**.
 3. Restart Home Assistant.
 4. Add **Afvalhulp** under **Settings > Devices & services**.
