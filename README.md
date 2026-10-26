@@ -1,6 +1,8 @@
 # hass-afvalhulp
 Home Assistant integration for Afvalhulp, used by various Dutch municipalities for trash pickup.
 
+[![HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Joery&repository=hass-afvalhulp)
+
 ## Entities
 Each configured address provides:
 
