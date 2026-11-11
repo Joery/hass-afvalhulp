@@ -1,6 +1,7 @@
 {
   "domain": "afvalhulp",
   "name": "Afvalhulp",
+  "categories": ["local_services"],
   "codeowners": ["@Joery"],
   "config_flow": true,
   "documentation": "https://github.com/Joery/hass-afvalhulp",
