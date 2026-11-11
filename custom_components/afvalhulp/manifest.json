@@ -1,0 +1,12 @@
+{
+  "domain": "afvalhulp",
+  "name": "Afvalhulp",
+  "codeowners": ["@Joery"],
+  "config_flow": true,
+  "documentation": "https://github.com/Joery/hass-afvalhulp",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Joery/hass-afvalhulp/issues",
+  "requirements": [],
+  "version": "1.1.0"
+}
