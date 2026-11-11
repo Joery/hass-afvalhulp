@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Afvalhulp",
+        "description": "Enter the address details you want to use.",
+        "data": {
+          "postcode": "Postal code",
+          "house_number": "House number",
+          "addition": "House number addition"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not retrieve the calendar for this address.",
+      "invalid_postcode": "Enter a valid Dutch postal code, for example 1234AB."
+    },
+    "abort": {
+      "already_configured": "This address is already configured."
+    }
+  }
+}
