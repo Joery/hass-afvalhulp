@@ -1,5 +1,6 @@
 # hass-afvalhulp
 Home Assistant integration for Afvalhulp, used by various Dutch municipalities for trash pickup.
+You can find a list of supported municipalities [here](https://mijn.afvalhulp.nl/gemeenten).
 
 [![Marketplace](https://my.home-assistant.io/badges/marketplace_repository.svg)](https://my.home-assistant.io/redirect/marketplace_repository/?owner=Joery&repository=hass-afvalhulp)
 
