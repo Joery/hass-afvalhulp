@@ -34,7 +34,7 @@ Home Assistant's built-in `DataUpdateCoordinator` refreshes the `.ics` feed ever
 5. Enter your postal code and house number.
 
 ### Manual
-Copy `custom_components/afvalhulp` into `/config/custom_components/` and restart Home Assistant.
+Download the [latest release](https://github.com/Joery/hass-afvalhulp/releases/latest), copy `custom_components/afvalhulp` into `/config/custom_components/` and restart Home Assistant.
 
 ## Contributing
 Contributions are welcome. If you find any issues or have improvements, you can create an [issue](https://github.com/Joery/hass-afvalhulp/issues) or [pull request](https://github.com/Joery/hass-afvalhulp/pulls).
